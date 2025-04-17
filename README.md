@@ -30,7 +30,7 @@ A simple and clean weather application built with **HTML, CSS, and JavaScript**,
 Note: You’ll need an API key from OpenWeatherMap. Replace the apiKey variable in script.js with your own.
 
 Demo
-![App Screenshot](./screenshot.PNG)
+![App Screenshot](./screeenshot.PNG)
 
 🧠 Author
 Shanki (@shanki1001)
